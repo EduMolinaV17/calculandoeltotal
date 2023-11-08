@@ -1,5 +1,5 @@
-var precio = 400000
-var num1 = 0
+let precio = 400000
+let num1 = 0
 
 precioSpan = document.querySelector(".precio-inicial");
 precioSpan.innerHTML = Number(precio);
